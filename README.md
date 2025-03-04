@@ -12,10 +12,6 @@ Soy un apasionado de la ciberseguridad con experiencia en análisis de vulnerabi
 📧 schiaffiniangel@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JoseAngelSchiaffini-blue?logo=linkedin)](https://www.linkedin.com/in/jose-schiaffini/)  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schiaffiniangel&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schiaffiniangel&layout=compact&theme=tokyonight)  
-
 ---
 
 *"El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente."* 🔐
