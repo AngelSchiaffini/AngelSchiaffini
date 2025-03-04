@@ -14,6 +14,6 @@ Soy un apasionado de la ciberseguridad con experiencia en análisis de vulnerabi
 
 ---
 
-*"El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente."* 🔐
+*"El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez de forma más inteligente."*
 **HENRY FORD**🚀
 
