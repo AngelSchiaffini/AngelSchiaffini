@@ -6,7 +6,7 @@
 🚀 **Intereses:** Pentesting, Vulnerability Management, Automatización
 
 ## 🚀 Sobre mí
-Soy un apasionado de la ciberseguridad con experiencia en análisis de vulnerabilidades, automatización con Nessus y Qualys, y soporte en seguridad informática. Estudio de forma autodidacta para fortalecer mis habilidades en pentesting y desarrollo herramientas de seguridad. 
+Soy un apasionado de la ciberseguridad con experiencia en análisis de vulnerabilidades, automatización con Nessus y Qualys, y soporte en seguridad informática. Estudio de forma autodidacta para fortalecer mis habilidades en pentesting.
 
 📫 **Contáctame:**  
 📧 schiaffiniangel@gmail.com  
